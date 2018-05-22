@@ -1,0 +1,58 @@
+/*
+Theme Name: BT Channel  
+Author: Kelly Martinez
+Author URI: boomtechny.com
+Description: A custom responsive wordpress theme to support video, music, blog content and Twitch channel directed towards a gamer audience. Includes integration with Youtube and Twitch API. 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:twitch, youtube, blog, videos, content, travel, collector, video games, responsive, 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+/* Fonts */
+@font-face {
+  font-family: 'exo2bold';
+  src: url('/wp-content/Exo2-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'exo';
+  src: url('/wp-content/Exo-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('/wp-content/Roboto.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'lato';
+  src: url('/wp-content/Lato.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+html{
+	box-sizing: border-box; 
+}
+
+
+*, *:before, *:after{
+	box-sizing: inherit;
+}
+
+/* Header */
+/* Video */
+
+/* Footer */
+
+
